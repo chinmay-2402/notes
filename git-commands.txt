@@ -1,0 +1,3 @@
+git init -- initialze working directory
+ls -a -- shows the all files(shows hidden files)
+git status -- 
