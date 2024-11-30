@@ -10,7 +10,7 @@ git remote add origin github-url -- To add origin GitHub repo
 git push origin Branch-name -- push files to GitHub repo
 git branch -- to create a new branch
 git checkout branch-name -- switch head to branch
-
+git fetch -- fetches chnages from origin branch
 
 
 
