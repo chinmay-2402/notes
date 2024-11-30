@@ -1,0 +1,16 @@
+git init -- initialze working directory
+ls -a -- shows the all files(shows hidden files)
+git status -- shows status of files (1. Untracked files 2. git add [Changes to be committed] 3. git commit -m "msg" [nothing to commit])
+git restore --staged filename -- staging area to working area
+git log -- shows history of commits
+git reset commit-id -- reset to the commit/stash the changes
+git stash -- save the files without commit 
+git statch pop -- stash files to staging area
+git remote add origin github-url -- To add origin GitHub repo
+git push origin Branch-name -- push files to GitHub repo
+git branch -- to create a new branch
+git checkout branch-name -- switch head to branch
+
+
+
+
